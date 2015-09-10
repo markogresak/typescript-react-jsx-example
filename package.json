@@ -1,0 +1,19 @@
+{
+  "name": "typescript-react-jsx-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "tsd reinstall --overwrite --save",
+    "start": "webpack-dev-server"
+  },
+  "author": "Marko Gresak <marko@gresak.io> (http://gresak.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^0.13.3",
+    "ts-loader": "^0.5.4",
+    "tsd": "^0.6.4",
+    "typescript": "^1.6.0-dev.20150909",
+    "webpack": "^1.12.1",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
