@@ -20,5 +20,8 @@
         "./typings/react/react.d.ts",
         "./typings/tsd.d.ts",
         "./index.tsx"
-    ]
+    ],
+    "atom": {
+        "rewriteTsconfig": true
+    }
 }
