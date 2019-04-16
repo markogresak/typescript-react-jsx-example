@@ -1,6 +1,16 @@
 # TypeScript with React and JSX
 
-This example repo is illustrating usage of TypeScript with React and upcoming JSX syntax support in TypeScript's compiler via `.tsx` file extension.
+> This example repo is illustrating usage of TypeScript with React and JSX syntax support in TypeScript's compiler via `.tsx` file extension.
+
+### :warning: This project is outdated and deprecated
+
+This example came to life in a different time, when TypeScript was just starting to be popular, when JSX syntax support was a new thing for TypeScript, the official documentation on this topic was scarce, and tools like `create-react-app` did not exist yet. 
+
+If you're learning about how to configure a TypeScript project to add Webpack and React, the official TypeScript documentation explains it well, and will likely remain up to date in the future.<br>
+See [React & Webpack · TypeScript](https://www.typescriptlang.org/docs/handbook/react-&-webpack.html).
+
+If you're looking for a quick way to start a new React project with TypeScript, my favourite way is [`create-react-app`](https://facebook.github.io/create-react-app/) using the [`--typescript` flag](https://facebook.github.io/create-react-app/docs/adding-typescript).<br>
+You can also check out the official [TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) template project.
 
 ## Running
 
